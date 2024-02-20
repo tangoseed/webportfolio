@@ -1,0 +1,24 @@
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: left;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: row; /* Align items horizontally */
+  align-items: center; /* Vertically align items in the middle */
+}
+
+.title, .content {
+  margin-right: 10px; /* Adds some space between the title and the content */
+}
+
+.title {
+  font-weight: normal;
+  font-size: 25px;
+  font-family: Impact, sans-serif;
+}
+
+.content {
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+}

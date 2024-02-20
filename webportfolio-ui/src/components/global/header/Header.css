@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 20vh; /* 15% of viewport height */
+    background-color: white;
+    padding: 0 20px;
+  }
+  
+  .logo {
+      font-weight: bold;
+      font-size: 35px;
+      font-family: Impact, sans-serif;
+      justify-content: left;
+  }
