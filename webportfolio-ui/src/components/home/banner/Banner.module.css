@@ -6,8 +6,8 @@
     color: white;
     padding: 20px;
     text-align: left;
-    position: relative; /* Ensure positioning context */
-    overflow: hidden; /* Hide overflow */
+    position: relative; 
+    overflow: hidden; 
   }
   
   .textContent {
